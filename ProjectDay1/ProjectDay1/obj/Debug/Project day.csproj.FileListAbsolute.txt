@@ -1,0 +1,6 @@
+c:\users\we can code it\documents\visual studio 2015\Projects\Project day\Project day\bin\Debug\Project day.exe.config
+c:\users\we can code it\documents\visual studio 2015\Projects\Project day\Project day\bin\Debug\Project day.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\Project day\Project day\bin\Debug\Project day.pdb
+c:\users\we can code it\documents\visual studio 2015\Projects\Project day\Project day\obj\Debug\Project day.csprojResolveAssemblyReference.cache
+c:\users\we can code it\documents\visual studio 2015\Projects\Project day\Project day\obj\Debug\Project day.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\Project day\Project day\obj\Debug\Project day.pdb
